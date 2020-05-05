@@ -1,0 +1,94 @@
+{
+  "singers": [
+    {
+      "id": 1,
+      "name": "Queen"
+    },
+    {
+      "id": 2,
+      "name": "Bob Marley"
+    },
+    {
+      "id": 3,
+      "name": "Coldplay"
+    },
+    {
+      "id": 4,
+      "name":"Mariah Carey"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "name": "Sheer Heart Attack",
+      "singerId": 1,
+      "cover": "/projectImg/queen1.jpg",
+      "releaseDate": "11/08/1974",
+      "songsNr": 13,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "The Game",
+      "singerId": 1,
+      "cover": "/projectImg/queen2.jpg",
+      "releaseDate": "30/06/1980",
+      "songsNr": 10,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "A Kind of Magic",
+      "singerId": 1,
+      "cover": "/projectImg/queen3.jpg",
+      "releaseDate": "02/06/1986",
+      "songsNr": 9,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Catch a Fire",
+      "singerId": 2,
+      "cover": "/projectImg/bobmarley1.jpg",
+      "releaseDate": "13/04/1973",
+      "songsNr": 9,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Survival",
+      "singerId": 2,
+      "cover": "/projectImg/bobmarley2.jpg",
+      "releaseDate": "02/10/1979",
+      "songsNr": 10,
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "Mylo Xyloto",
+      "singerId": 3,
+      "cover": "/projectImg/coldplay1.jpg",
+      "releaseDate": "19/10/2011",
+      "songsNr": 14,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "A Head Full of Dreams",
+      "singerId": 3,
+      "cover": "/projectImg/coldplay2.jpg",
+      "releaseDate": "04/12/2015",
+      "songsNr": 11,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Merry Christmas",
+      "singerId": 4,
+      "cover": "/projectImg/mariahcarey1.jpg",
+      "releaseDate": "28/10/1994",
+      "songsNr": 10,
+      "available": true
+    }
+  ]
+}
